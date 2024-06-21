@@ -1,0 +1,16 @@
+C:\Users\harun\source\repos\Okul\bin\Debug\Okul.exe.config
+C:\Users\harun\source\repos\Okul\bin\Debug\Okul.exe
+C:\Users\harun\source\repos\Okul\bin\Debug\Okul.pdb
+C:\Users\harun\source\repos\Okul\obj\Debug\Okul.csproj.AssemblyReference.cache
+C:\Users\harun\source\repos\Okul\obj\Debug\Okul.Properties.Resources.resources
+C:\Users\harun\source\repos\Okul\obj\Debug\Okul.csproj.GenerateResource.cache
+C:\Users\harun\source\repos\Okul\obj\Debug\Okul.csproj.CoreCompileInputs.cache
+C:\Users\harun\source\repos\Okul\obj\Debug\Okul.exe
+C:\Users\harun\source\repos\Okul\obj\Debug\Okul.pdb
+C:\Users\harun\source\repos\Okul\obj\Debug\Okul.FrmOgrenciNotlar.resources
+C:\Users\harun\source\repos\Okul\obj\Debug\Okul.FrmOgretmen.resources
+C:\Users\harun\source\repos\Okul\obj\Debug\Okul.Kulüp_Paneli.resources
+C:\Users\harun\source\repos\Okul\obj\Debug\Okul.FrmGiris.resources
+C:\Users\harun\source\repos\Okul\obj\Debug\Okul.FrmDersler.resources
+C:\Users\harun\source\repos\Okul\obj\Debug\Okul.FrmOgrenci.resources
+C:\Users\harun\source\repos\Okul\obj\Debug\Okul.FrmSinavNotlar.resources
